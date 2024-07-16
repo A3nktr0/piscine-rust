@@ -1,0 +1,16 @@
+- generics
+- traits
+- lifetimes
+- lalgebra_scalar
+- matrix
+- matrix_ops
+- matrix_mult
+- lalgebra_vector
+- blood_types
+- border_cross
+- roman_numbers
+- roman_numbers_iter
+- vectors_operations
+- events
+- delete_prefix
+- commits_stats

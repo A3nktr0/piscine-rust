@@ -1,0 +1,12 @@
+- changes
+- circle
+- card_deck
+- arrays
+- strings
+- capitalizing
+- edit_distance
+- simple_hash
+- bigger
+- string_permutation
+- hashing
+- collect

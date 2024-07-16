@@ -1,0 +1,11 @@
+- closures
+- sales
+- adding
+- adding_twice
+- get_products
+- highest
+- iterators
+- roman_numbers_iter
+- slices_to_map
+- step_iterator
+- project_motion
